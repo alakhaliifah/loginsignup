@@ -11,18 +11,6 @@ import { faEnvelope, faLock, faUser } from "@fortawesome/free-solid-svg-icons";
 import login from "./images/rocket.svg";
 import register from "./images/press-play.svg";
 
-// const sign_in_btn = document.querySelector("#sign-in-btn");
-// const sign_up_btn = document.querySelector("#sign-up-btn");
-// const app = document.querySelector(".app");
-
-// sign_up_btn.addEventListener("click", () => {
-//   app.classList.add("sign-up-mode");
-// });
-
-// sign_in_btn.addEventListener("click", () => {
-//   app.classList.remove("sign-up-mode");
-// });
-
 function App() {
   const [signupMode, setSignupMode] = useState("");
 

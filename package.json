@@ -2,6 +2,7 @@
   "name": "loginsignup",
   "version": "0.1.0",
   "private": true,
+  "author": {"name": "Abdirahman Ahmed Khalif", "email": "alakhalifah30@gmail.com", "url": "https://github.com/alakhaliifah"},
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.35",
     "@fortawesome/free-brands-svg-icons": "^5.15.3",
